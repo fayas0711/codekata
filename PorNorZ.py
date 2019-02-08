@@ -1,7 +1,7 @@
-g=int(raw_input())
-if(g>0):
+ag=int(raw_input())
+if(ag>0):
     print("Positive")
-elif(g<0): 
+elif(ag<0): 
     print("Negative")
-elif(g==o):
+elif(ag==o):
     print("Zero")
