@@ -1,6 +1,6 @@
-a=raw_input()
-if (a.isalpha()):
- if(a=='a' or a=='e' or a=='i' or a=='o' or a=='u'):
+am=raw_input()
+if (am.isalpha()):
+ if(am=='a' or am=='e' or am=='i' or am=='o' or am=='u'):
     print("Vowel")
  else:
      print("Constant")
